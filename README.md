@@ -1,0 +1,2 @@
+# raspi
+home raspberry
